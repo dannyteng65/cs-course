@@ -1,0 +1,10 @@
+## W3_note
+* Linux 壓縮檔案
+  - 為何要壓縮檔案
+    1. 方便整理
+    2. 節省硬碟空間 
+    3. 打包檔案
+    4. 加密
+  - 指令
+    - gzip FileName 壓縮
+    - gzip -d FileName.gz 解壓縮
